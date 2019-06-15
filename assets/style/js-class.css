@@ -1,0 +1,18 @@
+.outputBox{
+  border-radius: 10px;
+  padding: .8rem 1rem;
+  margin: .5rem;
+  text-transform: uppercase;
+}
+
+.male{
+  background-image: linear-gradient(to right, #37ecba 0%, #72afd3 100%);
+}
+
+.female{
+  background-image: linear-gradient(to right, #c71d6f 0%, #d09693 100%);
+}
+
+.other{
+  background-image: linear-gradient(to top, #bdc2e8 0%, #bdc2e8 1%, #e6dee9 100%);
+}
